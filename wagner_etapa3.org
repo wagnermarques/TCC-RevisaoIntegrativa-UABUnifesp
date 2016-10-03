@@ -1,0 +1,393 @@
+
+ETAPA 2 - "Trabalho de Conclusão de Curso" (TCC)
+| Wagner França Marques                 | Curso Curso UAB/UNIFESP 2016              |
+| Orientador: Ieda Aparecida Carneiro   |                                           |
+| specialização em Informática em Saúde | Data de Entrega: 0310/2016- Segunda Feira |
+
+* ETAPA 1
+** TEMA 
+   Revisão Bibliográfica sobre os Principais Mecanismos de Configuração de Interfaces Gráficas de Usuários (GUI) Utilizados na área da Saúde 
+** TÍTULO 
+   Revisão Bibliográfica sobre os Principais Mecanismos de Configuração
+   de Interfaces Gráficas de Usuários (GUI) Utilizados na área da Saúde
+** PERGUNTA DE PESQUISA
+   qual é o estado da arte sobre mecanismos de conifguração de interfaces gráficas para adequação dos softwares ás mudanças de processos de negócios na área da saúde
+
+
+* ETAPA 2 - METODOLOGIA
+** TIPO DE ESTUDO
+   REVISÃO INTEGRATIVA
+   A Revisão Integrativa é uma metodologia que proporciona a síntese do conhecimento e a incorporação da aplicabilidade de resultados de estudos significativos na prática(Souza et al, 2010)[fn:souza2010].
+   Segundo os autores a metodologia envolve:
+*** Definição do problema (Clínico, ou que se quer estudar)
+     O problema do presente estudo é de averiguar o estado da arte
+     sobre mecanismos de conifguração de interfaces gráficas para
+     adequação dos softwares ás mudanças de processos de negócios na
+     área da saúde.
+*** Identificação das informações necessárias
+     Encontrar estudos que tenham como foco Interfaces Gráficas de
+     Usuários (GUI - Graphical User Interface) e Mudanças em mudanças de processos de negócios na
+     área da saúde.
+     Buscar identificar nestes estudos os mecanismos de configuração
+     existentes capazes de adequar os softwares às mudanças nos
+     processos de negócios em questão.
+*** Condução da Busca de estudos na literatura
+     Segue a condução da busca no próximo tópico
+*** Identificação da aplicabilidade dos dados oriundos das
+     publicações e a determinação de sua utilização
+     [depende da coleta de dados dos atigos selecionados: próxima
+     etapa]
+     Mas pretendo levantar um caso real de negócio daqui onde eu
+     trabalho para utilizar como parâmetro de como as informações
+     obtidas dos estudos seriam úteis para o caso específico.
+
+ Já Alves (2013)[fn:Alves2013], em seu trabalho de revisão integrativa
+inclui tambám os seguintes passos metodológicos:
+
+***  Critérios de inclusão e exclusão de artigos
+     No Caso do presente estudo os critérios de inclusão de estudos
+     são:
+     Idioma: Português e Inglês
+     Data: a partir de 2011
+     Tipo de estudo: estudos primários
+     Tipo de publicação: artigos.livros e teses
+     Escopo: abordar o assunto sobre configuração de interfaces
+     gráfica de usuários e qual mecanismo de configuração essa
+     interface utiliza para atender às mudanças organizacionais
+     O Critério de exclusão são:
+     Exclusão pelo título: abordar interface grárica de usuário ou
+     mudanças organizacionais exclusão pelo abstract: Se o foco do
+     estudo não incluir configuração de interfaces gráficas de
+     usuários 
+     Tipo de divulgação: estudo deve estar on line
+
+
+*** Definição das informações a serem extraídas dos artigos selecionados; 
+
+*** Análise dos resultados; 
+   
+*** Discussão e apresentação dos resultados
+
+*** Apresentação da revisão.
+
+
+A Revisão Integrativa foi preferida por adequar-se melhor às práticas
+baseadas e evidências, que, assim como a metodologia de pesquisa PICO,
+pode ser empregada em outros campos do conhecimento, em particular da
+TI em Saúde.
+
+
+* ETAPA 3 -  CONDUÇÃO/DOCUMENTAÇÃO DA BUSCA DE ESTUDOS NA LITERATURA E SELEÇÃO DE ARTIGOS
+  Segue o relatório e documentação do processo de busca realizado nas
+  seguintes bases Chochane Library, IEEEXplore e ACM Digital Library.
+  Os descritores utlizados para buscas foram:
+   Graphical interface
+   graphical user interface
+   Interfaces, User-Computer
+   User-Computer Interfaces
+   User Computer Interface
+   
+   Interface, 
+   Virtual Systems
+   System, Virtual
+   Systems, Virtual
+   Virtual System
+
+   
+** Chochrane Library:Pesquisa na base :
+Em uma primeira etapa foi utilizado os descritores conforme imagem e
+quadro abaixo, o que resultou em 14861 estudos, o que demostrou ser
+necessário um refinamento da busca conforme documentado mais adiante.
+*** pesquisa com descritores 
+| ID  | Search                                         |  Hits |
+| #1  | Graphical interface Publication Year from 2011 |    66 |
+| #2  | graphical user interface                       |    48 |
+| #3  | Interfaces                                     |   373 |
+| #4  | User-Computer                                  |  1173 |
+| #5  | User-Computer Interfaces                       |    32 |
+| #6  | User Computer Interface                        |  1271 |
+| #7  | Interface                                      |  3022 |
+| #8  | Virtual Systems                                |   256 |
+| #9  | System, Virtual Publication Year from 2011     |   472 |
+| #10 | Systems Publication Year from 2011             |  7676 |
+| #11 | Virtual System Publication Year from 2011      |   472 |
+|     | TOTAL                                          | 14861 |
+
+#+CAPTION primeira tentativa de pesquisa com todos os termos entre "OR"
+[[./pesqcochranelibrary/pesqcochranelibrary1.png]]
+
+*** refinamento da pesquisa
+
+| #1 | "Graphical" interface Publication Year from 2011 |   66 |
+| #2 | "graphical user interface"                       |   21 |
+| #3 | "Interfaces"                                     |  373 |
+| #4 | User-Computer                                    | 1173 |
+| #5 | User-Computer Interfaces                         |   32 |
+| #6 | User Computer Interface                          | 1271 |
+| #7 | "Interface" Publication Year from 2011           | 1428 |
+| #8 | Virtual Systems                                  |  256 |
+| #9 | Virtual System Publication Year from 2011        |  472 |
+|    |                                                  | 5092 |
+|    |                                                  |      |
+
+
+| ID | Search                                                | Hits |
+| #1 | "Graphical" interface Publication Year from 2011      |   66 |
+| #2 | "graphical user interface" Publication Year from 2011 |   10 |
+| #3 | "Interfaces"                                          |  373 |
+| #4 | User-Computer                                         | 1173 |
+| #5 | User-Computer Interfaces                              |   32 |
+| #6 | User Computer "Interface" Publication Year from 2011  |  575 |
+| #7 | "Interface" Publication Year from 2011                | 1428 |
+|    |  TOTAL                                                | 3657 |
+|    |                                                       |      |
+#+CAPTION: Pesquisa Com Refinamento dos Descritores
+#+NAME:   tab:pesqcochranelibrary2-2484.png]]
+| ID | Search                                                | Hits |
+| #1 | "Graphical" interface Publication Year from 2011      |   66 |
+| #2 | "graphical user interface" Publication Year from 2011 |   10 |
+| #3 | "Interfaces"                                          |  373 |
+| #4 | User-Computer Interfaces                              |   32 |
+| #5 | User Computer "Interface" Publication Year from 2011  |  575 |
+| #6 | "Interface" Publication Year from 2011                | 1428 |
+|    |                                                       | 2484 |
+|    |                                                       |      |
+
+
+
+#+CAPTION: Pesquisa Com Refinamento dos Descritores
+#+NAME:   img:pesqcochranelibrary2-2484.png]]
+[[./pesqcochranelibrary/pesqcochranelibrary2-2484.png]]
+
+** Chochrane Library:Resultado da Pesquisa na base
+   Foram lidos todos os 2484 estudos (revisões bibliográficas sistemáticas) retornados[fn:cochranelibrary-pesq2484] pela pesquisa, que
+   pode ser acessada pelo link nas referências.
+   Não foi encontrado nenhum estudo a ser selecionado.
+
+** IEEEXplore:Pesquisa na base
+   http://ieeexplore.ieee.org/Xplore/home.jsp
+*** Descrição dos termos da pesqusia pela String de Pesquisa
+    ((((((((((Graphical interface) OR graphical user interface) OR
+    User-Computer) OR User-Computer Interfaces) OR User Computer
+    Interface) OR Interface) OR business process) OR BPM) OR BPMS) OR GUI)
+
+*** Descrição dos termos da pesqusia pelas Imagem das telas de pesquisa
+
+[[./pesqIEEEXplore/pesqIEEEXplorePart1.png]]
+
+
+[[./pesqIEEEXplore/pesqIEEEXplorePart2.png]]
+
+
+[[./pesqIEEEXplore/pesqIEEEXplorePart3.png]]    
+
+
+*** Url que reproduz a pesquisa
+    http://ieeexplore.ieee.org/search/searchresult.jsp?action=search&sortType=&rowsPerPage=&searchField=Search_All_Text&matchBoolean=true&queryText=((((((((((Graphical%20interface)%20OR%20graphical%20user%20interface)%20OR%20User-Computer)%20OR%20User-Computer%20Interfaces)%20OR%20User%20Computer%20Interface)%20OR%20Interface)%20OR%20business%20process)%20OR%20BPM)%20OR%20BPMS)%20OR%20GUI)&ranges=2011_2017_Year
+
+
+
+*** Arquivo de dados exportado
+    pesqIEEEXplore_export2016.09.30-15.38.18.csv
+
+** IEEEXplore:Resultados da pesquisa na base
+   A pesquisa retornou exatamente 2000 estudos. Devido ao grande
+   número de artigos e da não possibilidade de restringir pelo risco
+   de perder algum artigo selecionável, optou-se por fazer a busca
+   pelos títulos dos estudos.
+   Cabe ressaltar que após não ter obtido nenhum artigo selecionável
+   na busca anterior (chocrane) foi incluído nos descritores de busca
+   as palavras chaves "BPM", "BMPS" e "GUI" conforme demostrado na string
+   de pesquisa e nas imagens que demonstra a tela de pesquisa.
+
+   Alguns artigos foram interessantes porque abordam ou algo
+   relacionado a interface gráfica ou processos de negócios,mas não
+   selecionáveis porque quando trata de um não considera o outro.
+   Teaching advanced software design in team-based project course
+   Business Process Models of Enterprise in Collaborative Commerce
+   Using CPN
+   Semantic Business Process Representation to Enhance the Degree of
+   BPM Mechanization - An Ontology
+   An approach for frequent access pattern identification in web usage
+   mining
+   A concept of the web-based e-testing system
+   A Framework for Innovation System Customization for Product
+   Line-Based Software Businesses
+   
+   Mobile business process personalization for end users
+   Improving Reusability in Software Process Lines
+   Service workflow monitoring in private clouds: The user point of
+   view
+
+   Monitoring of Business Process Execution Based on Performance Indicators
+
+Foi interessante notar que o estudo "Track F: Healthcare and
+sustainable living" considera em seu abstract que e-Saúde,
+Telemedicina  e "Bio-System Research Systems", para melhorados através
+de interfaces humano-computador.
+
+  " eHealth, Telemedicine, and Bio-System Research Systems all
+  describe approaches to improving the capacity
+ of healthcare systems through fundamental and applied research,
+ technology, and services. Researchers and companies are, for example, 
+exploring the use of sensor devices, human-system interfaces, and
+ medical record systems 
+in order to provide radically new solutions for helping patients."
+
+De alguma forma o processo de software tem que ser considerado para
+produção de interfaces gráficas configuráveis...
+An Evaluation of Software Process Performance Analysis Activities:Insights from Different Viewpoints
+
+Esse artigo também tem a ver com o processo de criação de software, mas...
+Web tool for Goal modelling and statechart derivation
+
+Esse seria um selecionável porque tem como foco o estudo de GUI,
+entretanto, não aborda isso com base em mudanças organizacionais mas
+sim dentro de um context da atividade de teste de software.
+Enhancing generated Java GUI models with valid test data
+
+Iterative prototyping process in the development of graphical user
+interface (GUI) software is a considerable challenge for test
+automation. The maintenance work required for updating the test suites
+because of the constant changes in the GUI decreases the benefits
+gained from test automation and a large part of GUI software is still
+tested manually. In this paper we present a method and tool support
+for automatically creating and iteratively enhancing models of Java
+GUI applications, using the models for test case generation and
+automatically executing the generated test cases. During the first
+step the GUI Driver tool generates models presenting the state and
+behavior of the GUI application that is executed and observed
+automatically. Then the user can provide valid test data for the input
+fields of the GUI application and the GUI Driver tool uses the
+information to automatically enhance the generated GUI models. The
+enhanced models can be used for model-based testing (MBT) purposes.
+
+
+
+Esse é interessante porque aborda o problema principal do nosso estudo
+que é "hospital complexity and management cost became higher". Só que
+a gente quer entender como as interfaces gráficas podem não atrapalhar
+os gestores fazerem mudanças (ou seja, fazerem sua prática de gestão)
+e sim ajuda-los. No caso desse estudo os autore abordagem isso com uma
+visão mais ampla, mas em nível de de administração estratégica e não
+em nível de processos de negócio.
+Hospital-based expert model for health technology procurement planning in hospitals
+Although in the last years technology innovation in healthcare brought
+big improvements in care level and patient quality of life, hospital
+complexity and management cost became higher. For this reason,
+necessity of planning for medical equipment procurement within
+hospitals is getting more and more important in order to sustainable
+provide appropriate technology for both routine activity and
+innovative procedures. In order to support hospital decision makers
+for technology procurement planning, an expert model was designed as
+reported in the following paper. It combines the most widely used
+approaches for technology evaluation by taking into consideration
+Health Technology Assessment (HTA) and Medical Equipment Replacement
+Model (MERM). The designing phases include a first definition of
+prioritization algorithms, then the weighting process through experts'
+interviews and a final step for the model validation that included
+both statistical testing and comparison with real decisions. In
+conclusion, the designed model was able to provide a semi-automated
+tool that through the use of multidisciplinary information is able to
+prioritize different requests of technology acquisition in
+hospitals. Validation outcomes improved the model accuracy and created
+different "user profiles" according to the specific needs of decision
+makers.
+
+
+
+
+
+
+** Sciencedirect: Pesquisa
+   http://www.sciencedirect.com/science/search
+
+   [[./PesqScienceDirect/ScienceDirect1.png]]
+   [[./PesqScienceDirect/ScienceDirect2.png]]
+
+** Sciencedirect: Resultado
+   Foram encontrados muitos artigos sobre GUI, mas apenas uma
+   aplicação dela para fins específicos
+
+   (Graphical interface) or 
+   (graphical user interface) or
+   Interfaces or User-Computer or
+   (User-Computer Interfaces) or
+   User, or (Computer Interface) or
+   interface or GUI or BPM or BPMS, (business process) 
+
+   
+   Search results: 509,177 results found for pub-date > 2010 and
+   (Graphical interface) or (graphical user interface) or Interfaces
+   or User-Computer or (User-Computer Interfaces) or User, or
+   (Computer Interface) or interface or GUI or BPM or BPMS or
+   (business process) or configuration.    
+
+   Até o momento da elaboração deste relatório eu ainda não havia
+   terminado de ler os resultados do sciencidirect a não ser por estes:
+   7 artigos não tinham nada a ver com interfaces gráficas
+   36 artigos que focavam GUI
+
+
+
+* ACM - Digital Library
+  http://dl.acm.org/
+** Browse by the ACM Computing Classification System
+** Advanced Search
+   pesqAcmdl-1-results-ACMDL201609305240324.csv
+pesqAcmdl-1.png
+pesqAcmdl-1-results.png
+** sintaxe 1
+   (Graphical interface graphical user interface Interfaces
+   User-Computer User-Computer Interfaces User Computer Interface
+   Interface configuration business process GUI) 
+Refinements  [remove all]  click each refinement below to remove
+Published since:	2011
+ACM Publications:	Journal
+All Publications:	Periodical
+Content Formats:	PDF
+
+** sintaxe 2
+   ("Graphical interface" or "graphical user interface" or
+   "Interfaces" or "User-Computer" or "User-Computer Interfaces" or
+   "User Computer" or "Interface" or  "Interface" or "configuration"
+   or "business process" or "GUI") 
+
+ Refinements  [remove all]  click each refinement below to remove
+Published since:	2011
+ACM Publications:	Journal
+All Publications:	Periodical
+Content Formats:	PDF
+3,478 results found
+
+
+
+* ETAPA 3 - Considerações da etapa 3
+Ainda não terminei as buscas, mas estou enviando assim mesmo para não
+perder o prazo.
+
+Mas estou ainda enfrentando um problema de que ou os descritores não
+estão bem determinados ou realmente não há estudos sobre configuração
+de interaces gráficas que possam contemplar modificações nos
+processosd de negócio. Não consegui ainda selecionar artigos que
+aborde esse tema.   
+
+* Referências
+[fn:souza2010] SOUZA, Marcela Tavares de, SILVA, Michelly Dias da e
+CARVALHO, Rachel de  "Revisão integrativa: o que é e como fazer"
+einstein. 2010; 8(1 Pt 1):102-6 Disponível em
+http://astresmetodologias.com/material/O_que_e_RIL.pdf acessado em
+03/10/2016.
+
+[fn:Alves2013] Alves PAS, Pinto AC. Intervenções e práticas multiprofissionais. Rev. Ter. Ocup. Univ. São Paulo, 2013 maio/ago, 24(2);168-73.
+
+[fn:cochranelibrary-pesq2484]
+https://github.com/wagnermarques/TCC-RevisaoIntegrativa-UABUnifesp
+arquivo: cochranelibrary-pesqcochranelibrary2-2484-66papers-termsearched-Graphical-interface-citation-export.txt
+
+
+ rows and columns, you can always turn on the reference visualization
+ grid with C-c }: 
+ 
+formula debu hab been turned on
+http://orgmode.org/worg/org-tutorials/org-spreadsheet-intro.html
